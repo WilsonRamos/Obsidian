@@ -11,13 +11,14 @@
             "id": "96b412ccea5d5194",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian/Personal Branding/IA y Emociones.md",
-                "staged": true
+                "file": "SUMMER/GIT.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (IA y Emociones)"
+              "icon": "lucide-file",
+              "title": "GIT"
             }
           }
         ]
@@ -51,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#etiqueta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-25 14.50.21.excalidraw.md",
+                "file": "Aprendiendo Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2024-10-25 14.50.21.excalidraw"
+              "title": "Backlinks for Aprendiendo Kanban"
             }
           },
           {
@@ -111,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-25 14.50.21.excalidraw.md",
+                "file": "Aprendiendo Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2024-10-25 14.50.21.excalidraw"
+              "title": "Outgoing links from Aprendiendo Kanban"
             }
           },
           {
@@ -126,7 +127,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -159,28 +160,45 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 335.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "96b412ccea5d5194",
+  "active": "0ee6f36848e77f17",
   "lastOpenFiles": [
+    "SUMMER/attachments/CamaFlotante.png",
+    "SUMMER/Encuadernar Libro.md",
+    "SUMMER/Cama Minimalista.md",
+    "SUMMER/attachments/Camaminimalista.png",
+    "image_3.png",
+    "SUMMER/Python.md",
+    "SUMMER/GIT.md",
+    "Professional Carrer/Unsa/Algoritmos y Estructura de Datos/Drawing 2024-11-30 00.02.13.excalidraw.md",
+    "Professional Carrer/Unsa/Algoritmos y Estructura de Datos/Drawing 2024-12-17 20.14.27.excalidraw.md",
+    "image_29.png",
+    "image_28.png",
+    "SUMMER/attachments",
+    "SUMMER/Skin Care - Piel Grasa.md",
+    "Personal Branding/Ejemplo de Canvas.canvas",
     "Personal Branding/IA y Emociones.md",
+    "CodeTenciques.excalidraw.md",
+    "Aprendiendo Kanban.md",
+    "Obsidian Congiracion y todo los demas para tomar notas.md",
+    "Untitled.canvas",
+    "image_0.png",
     "Excalidraw/Drawing 2024-10-25 14.50.44.excalidraw.md",
     "Excalidraw/DiagramaMemoryList.excalidraw.md",
-    "SUMMER/Fabricar Mesa.md",
-    "SUMMER/Encuadernar Libro.md",
-    "SUMMER/GIT.md",
     "Untitled 4.md",
     "Professional Carrer/Unsa/Sistemas Operativos/Drawing 2024-12-09 09.17.34.excalidraw.md",
     "Education/Estudiante Top.md",
@@ -192,34 +210,18 @@
     "Pasted image 20250116215854.png",
     "Pasted image 20250116212414.png",
     "Pasted image 20250116211222.png",
-    "SUMMER/Python.md",
-    "image_29.png",
-    "SUMMER/Skin Care - Piel Grasa.md",
-    "image_28.png",
     "SUMMER",
-    "image_27.png",
     "Education/Learning English/Project MakingVideo.md",
     "Education/Learning English/Drawing 2024-11-28 23.03.41.excalidraw.md",
-    "image_26.png",
-    "image_25.png",
-    "image_24.png",
     "Professional Carrer/Unsa/Sistemas Operativos",
     "Education/Recordar Todo Lo que lees.md",
     "Education/Metologias de Estudio/Space Repetition.md",
-    "Education/Metologias de Estudio/Active Recall.md",
-    "Education/Learning English/Verbos de Preferencia.md",
     "Personal Branding",
-    "Professional Carrer/Unsa/Algoritmos y Estructura de Datos/Drawing 2024-11-30 00.02.13.excalidraw.md",
     "Professional Carrer/Unsa/Algoritmos y Estructura de Datos",
-    "Proyecto Para Base de Datos.md",
-    "Untitled 1.md",
-    "Untitled 2.md",
-    "Untitled 3.md",
     "Education/Learning English",
     "Education/Metologias de Estudio",
     "Professional Carrer/Unsa/MAC",
     "Education",
-    "Professional Carrer/Unsa",
-    "Professional Carrer"
+    "Professional Carrer/Unsa"
   ]
 }

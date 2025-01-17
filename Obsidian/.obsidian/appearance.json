@@ -1,3 +1,6 @@
 {
-  "cssTheme": "Obsidian Nord"
+  "cssTheme": "Blue Topaz",
+  "accentColor": "#e53434",
+  "theme": "obsidian",
+  "textFontFamily": "American Typewriter"
 }

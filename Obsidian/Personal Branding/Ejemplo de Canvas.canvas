@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"4be1c35f5ce2f219","x":80,"y":-320,"width":400,"height":400,"type":"file","file":"SUMMER/Python.md"},
+		{"id":"e04a2868bebf8476","x":-520,"y":-600,"width":400,"height":400,"color":"5","type":"file","file":"SUMMER/GIT.md"}
+	],
+	"edges":[
+		{"id":"7a4ec0444832ada0","fromNode":"e04a2868bebf8476","fromSide":"right","toNode":"4be1c35f5ce2f219","toSide":"top"}
+	]
+}
