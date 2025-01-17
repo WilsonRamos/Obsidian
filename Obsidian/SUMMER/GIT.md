@@ -11,6 +11,7 @@
     
 - _Previamente, debes conocer la ruta o la ruta donde se encuentra almacenado tu proyecto **(carpeta o directorio)**, para evitar frustraciones al usar la terminal._
 
+[[Python | Aprendiendo python]]
 
 **Ver toda la configuración actual de Git**:
 
