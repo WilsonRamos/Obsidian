@@ -1,0 +1,1 @@
+Después de **"like"** casi siempre va el **gerundio** (-ing) porque esta es la estructura gramatical que el verbo exige en inglés. Esto es un patrón común que se aplica a varios verbos de preferencia, disfrute o hábito (como "enjoy," "love," "hate").

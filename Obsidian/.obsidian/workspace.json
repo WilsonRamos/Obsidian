@@ -8,29 +8,97 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7d4fe6ae1f0219a",
+            "id": "763914e97225aaff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Recordar Todo Lo que lees.md",
+                "file": "Education/Learning English/ABOVE  REJECT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recordar Todo Lo que lees"
+              "title": "ABOVE  REJECT"
             }
           },
           {
-            "id": "763914e97225aaff",
+            "id": "806567fc8c376d09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 5"
+            }
+          },
+          {
+            "id": "e08715996ba345c7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Education/Aprendifaje.excalidraw.md"
+                "file": "Education/Drawing 2024-12-27 17.30.52.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Aprendifaje.excalidraw"
+              "title": "Drawing 2024-12-27 17.30.52.excalidraw"
+            }
+          },
+          {
+            "id": "16479de446f81aa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SUMMER/GIT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GIT"
+            }
+          },
+          {
+            "id": "86f917da475b3f9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Education/Estudiante Top.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estudiante Top"
+            }
+          },
+          {
+            "id": "73bb2a34081db1cc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Professional Carrer/Unsa/Sistemas Operativos/Drawing 2024-12-09 09.17.34.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-12-09 09.17.34.excalidraw"
+            }
+          },
+          {
+            "id": "255fbfa96646e743",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 4"
             }
           },
           {
@@ -45,7 +113,8 @@
               "title": "Release Notes 1.7.7"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -163,31 +232,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-25 14.50.21.excalidraw.md"
+                "file": "Education/Aprendifaje.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2024-10-25 14.50.21.excalidraw"
-            }
-          },
-          {
-            "id": "37c36d05a0c92c73",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Outline of Aprendifaje.excalidraw"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -197,40 +258,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7d4fe6ae1f0219a",
+  "active": "16479de446f81aa5",
   "lastOpenFiles": [
-    "image_9.png",
+    "Pasted image 20250116220114.png",
+    "Pasted image 20250116215854.png",
+    "Pasted image 20250116212414.png",
+    "Pasted image 20250116211222.png",
+    "SUMMER/Python.md",
+    "SUMMER/GIT.md",
+    "SUMMER/Encuadernar Libro.md",
+    "SUMMER/Fabricar Mesa.md",
+    "image_29.png",
+    "SUMMER/Skin Care - Piel Grasa.md",
+    "image_28.png",
+    "Education/Drawing 2024-12-27 17.30.52.excalidraw.md",
+    "SUMMER",
+    "image_27.png",
+    "Untitled 5.md",
+    "Education/Learning English/ABOVE  REJECT.md",
+    "Education/Learning English/Project MakingVideo.md",
+    "Education/Learning English/Drawing 2024-11-28 23.03.41.excalidraw.md",
+    "Professional Carrer/Unsa/Sistemas Operativos/Drawing 2024-12-09 09.17.34.excalidraw.md",
+    "image_26.png",
+    "image_25.png",
+    "image_24.png",
+    "image_23.png",
+    "Untitled 4.md",
+    "Education/Estudiante Top.md",
+    "Professional Carrer/Unsa/Sistemas Operativos",
+    "Personal Branding/IA y Emociones.md",
     "Education/Recordar Todo Lo que lees.md",
+    "Education/Metologias de Estudio/Space Repetition.md",
+    "Education/Metologias de Estudio/Active Recall.md",
+    "Education/Learning English/Verbos de Preferencia.md",
+    "Personal Branding",
+    "Professional Carrer/Unsa/Algoritmos y Estructura de Datos/Drawing 2024-11-30 00.02.13.excalidraw.md",
+    "Professional Carrer/Unsa/Algoritmos y Estructura de Datos",
+    "Proyecto Para Base de Datos.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "Untitled 3.md",
+    "Welcome.md",
+    "Education/Learning English",
     "Education/Aprendifaje.excalidraw.md",
+    "Education/Metologias de Estudio",
+    "Professional Carrer/Unsa/MAC",
     "Education",
     "Professional Carrer/Unsa",
-    "Professional Carrer",
-    "Proyecto Para Base de Datos.md",
-    "Untitled 4.md",
-    "Excalidraw/DiagramaMemoryList.excalidraw.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Garbage Colector.md",
-    "image_8.png",
-    "Excalidraw/Drawing 2024-10-25 14.50.21.excalidraw.md",
-    "Untitled 3.md",
-    "Excalidraw/Drawing 2024-11-13 09.38.13.excalidraw.md",
-    "image_7.png",
-    "Pasted image 20241109204137.png",
-    "Oraciones.md",
-    "Pasted image 20241108215725.png",
-    "Pasted image 20241108214559.png",
-    "Oratoria.md",
-    "CodeTenciques.excalidraw.md",
-    "image.png",
-    "image_0.png",
-    "image_6.png",
-    "image_5.png",
-    "image_4.png",
-    "Excalidraw/Drawing 2024-10-25 14.50.44.excalidraw.md",
-    "2024-10-25.md",
-    "Excalidraw",
-    "Welcome.md"
+    "Professional Carrer"
   ]
 }

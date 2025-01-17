@@ -24,9 +24,7 @@
 
 ---
 
-### **2. Modelo Conceptual (Diagrama EER)**
-
-Para cumplir con el requisito de al menos **12 entidades**, puedes incluir las siguientes:
+### **. Modelo Conceptual (Diagrama EER)**
 
 #### **Entidades Principales:**
 

@@ -1,0 +1,2 @@
+Estudiar Activamente haciendose preguntas
+completar Mapas
