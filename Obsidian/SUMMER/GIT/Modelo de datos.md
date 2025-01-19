@@ -4,6 +4,8 @@ En términos generales, un **modelo de datos** es una forma de organizar, estruc
 
 Git usa un modelo de datos basado en **objetos** y una estructura **de grafo dirigido acíclico (DAG)** para modelar la historia y los cambios en los archivos de un proyecto.
 
+El modelo de datos de Git se compone principalmente de **objetos**, que se organizan y almacenan en una base de datos interna en formato binario, lo que permite la integridad de los datos, eficiencia y operaciones rápidas. Los objetos son referenciados a través de **hashes** (SHA-1), lo que garantiza que cada objeto es único.
+
 Aquí te explico las partes clave del modelo de datos en Git:
 
 1. **Objetos en Git**: Git organiza los datos en tres tipos de objetos fundamentales:

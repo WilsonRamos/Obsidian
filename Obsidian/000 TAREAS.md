@@ -6,16 +6,16 @@ kanban-plugin: board
 
 ## Todo
 
-- [ ] Gi
-- [ ] Obsiduian
 - [ ] [[Obsidian Congiracion y todo los demas para tomar notas]]
 - [ ] Hacer un Video de Git
 - [ ] Machine Learning
+- [ ] [[Empradronarme en la Asociacion Asvitazonza]]
 
 
 ## In Progress
 
-- [ ] Aprendoendo Pyhton
+- [ ] Obsiduian
+- [ ] Git Missing Semester
 - [ ] 
 - [ ] Aprendo Python Con el Curso del MIT impartido por la doctora Bell
 - [ ] Aprendiendo Git
