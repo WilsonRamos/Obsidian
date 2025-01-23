@@ -109,3 +109,5 @@ human acctually work in base 10
 computer work in base 2
 
 # Floats ans Aproximation Method
+
+![[Pasted image 20250122103253.png]]

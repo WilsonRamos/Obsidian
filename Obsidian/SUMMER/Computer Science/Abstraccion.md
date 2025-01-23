@@ -1,0 +1,1 @@
+Es el proceso de simplificar algo complejo mostrandote solo las partes que necesitas para usarlo, mientras se ocultan los detalles que no son relevantes para el usuario

@@ -18,11 +18,15 @@ kanban-plugin: board
 - [ ] Git Missing Semester
 - [ ] 
 - [ ] Aprendo Python Con el Curso del MIT impartido por la doctora Bell
+- [ ] Lecture 8 : Function as Object
 - [ ] Aprendiendo Git
 
 
 ## Complete
 
+- [ ] Git : Missing Semester
+- [ ] Lecture 6 : Bisection Serach(Revie Epsolin in Lecture 5)
+- [ ] Lecture 7: Descomposicion Abstracion
 
 
 
