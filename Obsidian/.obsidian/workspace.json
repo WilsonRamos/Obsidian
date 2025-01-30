@@ -27,36 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMER/Computer Science/Funciones HASH.md",
+                "file": "SUMMER/Python/Lecture 9 - Lambda Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Funciones HASH"
-            }
-          },
-          {
-            "id": "fed8443cff822c49",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "000 TAREAS.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "000 TAREAS"
+              "title": "Lecture 9 - Lambda Functions"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,9 +191,25 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "fed8443cff822c49",
+  "active": "c5374accc9a03495",
   "lastOpenFiles": [
+    "SUMMER/Python/attachments/Pasted image 20250129183003.png",
+    "SUMMER/Python/attachments/Pasted image 20250129174020.png",
+    "SUMMER/Python/attachments/Pasted image 20250129173646.png",
+    "SUMMER/Python/attachments/Pasted image 20250129155718.png",
+    "Education/Learning English/Road Map.md",
+    "SUMMER/Python/Lecture 9 - Lambda Functions.md",
+    "Professional Carrer/Unsa/2025-A/Scheduling.md",
+    "Professional Carrer/Unsa/2025-A/attachments/Pasted image 20250129081232.png",
+    "Professional Carrer/Unsa/2025-A/attachments",
+    "000 TAREAS.md",
+    "Professional Carrer/Unsa/2025-A",
+    "SUMMER/GIT/GIT.md",
+    "SUMMER/Computer Science/Funciones HASH.md",
     "Patrimony/Terreno Abuelo.md",
+    "SUMMER/Python/Lecture 8 Function as Objects.md",
+    "SUMMER/Python/attachments/Pasted image 20250123101431.png",
+    "SUMMER/Python/attachments",
     "SUMMER/Python/Bisection Search.md",
     "Patrimony",
     "Entertainment",
@@ -222,10 +218,8 @@
     "SUMMER/Python/Decomposition, Abstraction and Functions.md",
     "SUMMER/Python/Python.md",
     "SUMMER/Computer Science/Abstraccion.md",
-    "000 TAREAS.md",
     "SUMMER/Python",
     "SUMMER/attachments/Pasted image 20250122103253.png",
-    "SUMMER/GIT/GIT.md",
     "Ciclismo/Cuadro.md",
     "Ciclismo/attachments/Pasted image 20250118185123.png",
     "Ciclismo/attachments",
@@ -238,28 +232,14 @@
     "2024-10-25.md",
     "Education/Oratoria.md",
     "Education/Estudiante Top.md",
-    "SUMMER/Computer Science/Funciones HASH.md",
-    "SUMMER/Computer Science/attachments/Recording 20250118113851.m4a",
-    "SUMMER/Computer Science/attachments",
     "SUMMER/Computer Science/DiagramaHash.excalidraw.md",
     "SUMMER/Computer Science/Sistemas Distribuidos.md",
     "CodeTenciques.excalidraw.md",
     "ChatGTP/Chat.md",
     "ChatGTP/attachments/Pasted image 20250118082615.png",
-    "ChatGTP/attachments",
     "Untitled.canvas",
     "SUMMER/GIT/attachments/image_0.png",
     "SUMMER/GIT/attachments/image.png",
-    "SUMMER/Untitled.md",
-    "SUMMER/attachments/CamaFlotante.png",
-    "SUMMER/Encuadernar Libro.md",
-    "SUMMER/Cama Minimalista.md",
-    "SUMMER/attachments/Camaminimalista.png",
-    "image_3.png",
-    "Professional Carrer/Unsa/Algoritmos y Estructura de Datos/Drawing 2024-11-30 00.02.13.excalidraw.md",
-    "Professional Carrer/Unsa/Algoritmos y Estructura de Datos/Drawing 2024-12-17 20.14.27.excalidraw.md",
-    "image_29.png",
-    "image_28.png",
     "Personal Branding/Ejemplo de Canvas.canvas"
   ]
 }

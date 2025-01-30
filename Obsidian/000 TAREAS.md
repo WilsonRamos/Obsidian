@@ -10,6 +10,9 @@ kanban-plugin: board
 - [ ] Hacer un Video de Git
 - [ ] Machine Learning
 - [ ] [[Empradronarme en la Asociacion Asvitazonza]]
+- [ ] Lecture 9 :
+- [ ] Lecture 10
+- [ ] Programacion en PyGame (6 Hours)
 
 
 ## In Progress
@@ -27,6 +30,7 @@ kanban-plugin: board
 - [ ] Git : Missing Semester
 - [ ] Lecture 6 : Bisection Serach(Revie Epsolin in Lecture 5)
 - [ ] Lecture 7: Descomposicion Abstracion
+- [ ] RoadMAP Ingles
 
 
 
