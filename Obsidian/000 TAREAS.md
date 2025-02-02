@@ -10,8 +10,6 @@ kanban-plugin: board
 - [ ] Hacer un Video de Git
 - [ ] Machine Learning
 - [ ] [[Empradronarme en la Asociacion Asvitazonza]]
-- [ ] Lecture 9 :
-- [ ] Lecture 10
 - [ ] Programacion en PyGame (6 Hours)
 
 
@@ -19,10 +17,9 @@ kanban-plugin: board
 
 - [ ] Obsiduian
 - [ ] Git Missing Semester
-- [ ] 
 - [ ] Aprendo Python Con el Curso del MIT impartido por la doctora Bell
-- [ ] Lecture 8 : Function as Object
 - [ ] Aprendiendo Git
+- [ ] 
 
 
 ## Complete
@@ -30,6 +27,9 @@ kanban-plugin: board
 - [ ] Git : Missing Semester
 - [ ] Lecture 6 : Bisection Serach(Revie Epsolin in Lecture 5)
 - [ ] Lecture 7: Descomposicion Abstracion
+- [ ] Lecture 8 : Function as Object
+- [ ] Lecture 9 :
+- [ ] Lecture 10
 - [ ] RoadMAP Ingles
 
 
