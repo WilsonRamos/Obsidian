@@ -51,12 +51,14 @@
             "id": "f4c6a02e2c8ac485",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Education/Learning English/Drawing 2025-02-01 09.39.55.excalidraw.md"
+                "file": "Education/Learning English/Look.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-01 09.39.55.excalidraw"
+              "icon": "lucide-file",
+              "title": "Look"
             }
           }
         ],
@@ -200,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 314.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,28 +220,36 @@
   },
   "active": "f4c6a02e2c8ac485",
   "lastOpenFiles": [
-    "Education/Learning English/OVER.excalidraw.md",
-    "Education/Learning English/Drawing 2025-02-01 09.39.55.excalidraw.md",
     "000 TAREAS.md",
+    "Education/Learning English/Look.md",
+    "SUMMER/Python/Pandas.md",
+    "SUMMER/Python/Lecture 11.md",
+    "SUMMER/Python/attachments/Pasted image 20250207103659.png",
+    "SUMMER/Python/attachments/Pasted image 20250207103303.png",
+    "SUMMER/Python/attachments/Pasted image 20250207100930.png",
+    "SUMMER/Python/attachments/Pasted image 20250207085957.png",
+    "Education/Learning English/TIPS.md",
+    "Education/Learning English/to take.md",
+    "SUMMER/Python/Bisection Search.md",
+    "Education/Learning English/GET.excalidraw.md",
+    "Education/Learning English/attachments/image_0.png",
+    "SUMMER/RoadMap.md",
+    "SUMMER/attachments/MachineLearningVersion2_imprimir.pdf",
+    "SUMMER/attachments/Pasted image 20250203081332.png",
+    "Education/Learning English/OVER.excalidraw.md",
+    "Education/Learning English/Over como prefijo.md",
     "SUMMER/attachments/Pasted image 20250131193641.png",
     "SUMMER/Python/Lecture 10 - List and Mutabily.md",
     "SUMMER/Machine Learning.md",
     "SUMMER/Python/attachments/Pasted image 20250130215909.png",
     "SUMMER/Python/attachments/Pasted image 20250130212300.png",
     "SUMMER/Python/attachments/Pasted image 20250130212032.png",
-    "Education/Learning English/attachments/image.png",
     "Education/Learning English/attachments",
-    "Education/Learning English/Over como prefijo.md",
     "Personal Branding/Untitled.md",
     "Entertainment/Drawing 2025-01-30 12.25.14.excalidraw.md",
-    "Entertainment/attachments/image.png",
     "Entertainment/attachments",
     "SUMMER/GIT/GIT.md",
-    "Entertainment/Untitled Diagram 2.svg",
-    "Entertainment/Untitled Diagram 1.svg",
-    "Entertainment/Untitled Diagram.svg",
     "SUMMER/Python/Lecture 9 - Lambda Functions.md",
-    "SUMMER/Python/attachments/Pasted image 20250129183003.png",
     "Education/Learning English/Road Map.md",
     "Professional Carrer/Unsa/2025-A/Scheduling.md",
     "Professional Carrer/Unsa/2025-A/attachments",
@@ -248,7 +258,6 @@
     "Patrimony/Terreno Abuelo.md",
     "SUMMER/Python/Lecture 8 Function as Objects.md",
     "SUMMER/Python/attachments",
-    "SUMMER/Python/Bisection Search.md",
     "Patrimony",
     "Entertainment",
     "Finances",
@@ -256,14 +265,7 @@
     "SUMMER/Python/Decomposition, Abstraction and Functions.md",
     "SUMMER/Python/Python.md",
     "SUMMER/Computer Science/Abstraccion.md",
-    "SUMMER/Python",
     "Ciclismo/Cuadro.md",
-    "SUMMER/GIT/Modelo de datos.md",
-    "SUMMER/GIT/GIT.excalidraw.md",
-    "Empradronarme en la Asociacion Asvitazonza.md",
-    "Garbage Colector.md",
-    "Education/Recordar Todo Lo que lees.md",
-    "2024-10-25.md",
     "Untitled.canvas",
     "Personal Branding/Ejemplo de Canvas.canvas"
   ]

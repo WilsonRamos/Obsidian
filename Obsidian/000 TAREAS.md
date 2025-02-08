@@ -11,6 +11,8 @@ kanban-plugin: board
 - [ ] Machine Learning
 - [ ] [[Empradronarme en la Asociacion Asvitazonza]]
 - [ ] Programacion en PyGame (6 Hours)
+- [ ] Proyectos con interfaz https://youtu.be/RaEatqpugCk?list=PL7HAy5R0ehQUqWhWNm3DpGOSAZ1skAEsW
+- [ ] Lecture 12:
 
 
 ## In Progress
@@ -19,6 +21,7 @@ kanban-plugin: board
 - [ ] Git Missing Semester
 - [ ] Aprendo Python Con el Curso del MIT impartido por la doctora Bell
 - [ ] Aprendiendo Git
+- [ ] Road Map Machine Learning
 - [ ] 
 
 
@@ -30,6 +33,7 @@ kanban-plugin: board
 - [ ] Lecture 8 : Function as Object
 - [ ] Lecture 9 :
 - [ ] Lecture 10
+- [ ] Lecture 11:
 - [ ] RoadMAP Ingles
 
 
