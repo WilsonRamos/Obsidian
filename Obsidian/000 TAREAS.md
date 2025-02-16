@@ -12,7 +12,6 @@ kanban-plugin: board
 - [ ] [[Empradronarme en la Asociacion Asvitazonza]]
 - [ ] Programacion en PyGame (6 Hours)
 - [ ] Proyectos con interfaz https://youtu.be/RaEatqpugCk?list=PL7HAy5R0ehQUqWhWNm3DpGOSAZ1skAEsW
-- [ ] Lecture 12:
 
 
 ## In Progress
@@ -22,6 +21,7 @@ kanban-plugin: board
 - [ ] Aprendo Python Con el Curso del MIT impartido por la doctora Bell
 - [ ] Aprendiendo Git
 - [ ] Road Map Machine Learning
+- [ ] Lecture 12:
 - [ ] 
 
 
