@@ -22,6 +22,7 @@ kanban-plugin: board
 - [ ] Aprendiendo Git
 - [ ] Road Map Machine Learning
 - [ ] Lecture 12:
+- [ ] Machine Learning Map
 - [ ] 
 
 
