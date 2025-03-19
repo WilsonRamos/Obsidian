@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChatGTP/Chat.md",
+                "file": "Entertainment/Guitarra/Curso de Guitarra Andina.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chat"
+              "title": "Curso de Guitarra Andina"
             }
           },
           {
@@ -239,6 +239,11 @@
   },
   "active": "5bdfdf9a1583c26a",
   "lastOpenFiles": [
+    "Entertainment/Guitarra/attachments/Pasted image 20250319182152.png",
+    "Entertainment/Guitarra/attachments",
+    "ChatGTP/Chat.md",
+    "Entertainment/Guitarra/Curso de Guitarra Andina.md",
+    "Entertainment/Guitarra",
     "Professional Carrer/Unsa/Sistemas Operativos/Drawing 2024-12-09 09.17.34.excalidraw.md",
     "Professional Carrer/Unsa/2025-A/Scheduling.md",
     "Education/Learning English/Advervios.md",
@@ -278,15 +283,10 @@
     "002MachineLearning/attachments",
     "001ProjectMINING/Api de Google.md",
     "000 TAREAS.md",
-    "Education/Recordar Todo Lo que lees.md",
     "002MachineLearning",
-    "Education/Oratoria.md",
-    "Education/Estudiante Top.md",
     "SUMMER/Python/MIT/attachments",
     "SUMMER/Python/MIT",
     "001ProjectMINING",
-    "SUMMER/attachments/MachineLearningVersion2_imprimir.pdf",
-    "Education/Learning English/attachments",
     "Personal Branding/Ejemplo de Canvas.canvas"
   ]
 }
