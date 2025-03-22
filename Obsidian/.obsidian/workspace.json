@@ -30,12 +30,52 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entertainment/Guitarra/Curso de Guitarra Andina.md",
+                "file": "Education/Learning English/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Curso de Guitarra Andina"
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "43a694248f3dc80d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Education/Learning English/Drawing 2025-03-22 10.57.25.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-22 10.57.25.excalidraw"
+            }
+          },
+          {
+            "id": "7fc5ba1657b52710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Education/Learning English/PRESENT SIMPLE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PRESENT SIMPLE"
+            }
+          },
+          {
+            "id": "0a6a67056be69fde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Education/Learning English/PAST PERFECT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PAST PERFECT"
             }
           },
           {
@@ -81,7 +121,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,7 +261,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 276.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,12 +277,28 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5bdfdf9a1583c26a",
+  "active": "43a694248f3dc80d",
   "lastOpenFiles": [
+    "Education/Learning English/PRESENT SIMPLE.md",
+    "Education/Learning English/Drawing 2025-03-22 10.57.25.excalidraw.md",
+    "Education/Learning English/PAST PERFECT.md",
+    "Education/Learning English/attachments/image_1.png",
+    "Education/Learning English/Untitled.md",
+    "Inteligencia Artificial/Prompt Engineering.md",
+    "Inteligencia Artificial/attachments/Pasted image 20250321232352.png",
+    "Inteligencia Artificial/attachments/Pasted image 20250321223205.png",
+    "Inteligencia Artificial/IA.md",
+    "Inteligencia Artificial/tips de IA.md",
+    "Inteligencia Artificial/attachments/Pasted image 20250321202239.png",
+    "Inteligencia Artificial/attachments/Pasted image 20250321200317.png",
+    "Inteligencia Artificial/attachments/Pasted image 20250321195756.png",
+    "Inteligencia Artificial/attachments/Pasted image 20250321141154.png",
+    "Inteligencia Artificial/attachments",
+    "Entertainment/Guitarra/Curso de Guitarra Andina.md",
+    "Inteligencia Artificial",
     "Entertainment/Guitarra/attachments/Pasted image 20250319182152.png",
     "Entertainment/Guitarra/attachments",
     "ChatGTP/Chat.md",
-    "Entertainment/Guitarra/Curso de Guitarra Andina.md",
     "Entertainment/Guitarra",
     "Professional Carrer/Unsa/Sistemas Operativos/Drawing 2024-12-09 09.17.34.excalidraw.md",
     "Professional Carrer/Unsa/2025-A/Scheduling.md",
@@ -256,14 +312,6 @@
     "Proyecto Para Base de Datos.md",
     "Pasted image 20250116220114.png",
     "Pasted image 20250116215854.png",
-    "Pasted image 20250116212414.png",
-    "Pasted image 20250116211222.png",
-    "Pasted image 20241210215523.png",
-    "Pasted image 20241210215508.png",
-    "Pasted image 20241128230326.png",
-    "Pasted image 20241123154900.png",
-    "Pasted image 20241109204137.png",
-    "Pasted image 20241108215725.png",
     "CodeTenciques.excalidraw.md",
     "Garbage Colector.md",
     "Empradronarme en la Asociacion Asvitazonza.md",
@@ -276,17 +324,9 @@
     "Education/Learning English/Untitled.canvas",
     "Education/Learning English/RoadMap.excalidraw.md",
     "Ciclismo/Cuadro.md",
-    "002MachineLearning/MachineLearning.excalidraw.md",
-    "002MachineLearning/Irrelevant Features.md",
-    "SUMMER/Machine Learning.md",
-    "SUMMER/Python/MIT/Lecture 14.md",
     "002MachineLearning/attachments",
-    "001ProjectMINING/Api de Google.md",
-    "000 TAREAS.md",
     "002MachineLearning",
     "SUMMER/Python/MIT/attachments",
-    "SUMMER/Python/MIT",
-    "001ProjectMINING",
     "Personal Branding/Ejemplo de Canvas.canvas"
   ]
 }
