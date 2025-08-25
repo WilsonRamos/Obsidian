@@ -31,3 +31,14 @@ git log --oneline -1
 
 **Mecanismos de recuperación:**
 - Reflog mantiene referencias a commits "perdidos" durante ~30 días
+
+
+## GIT FETCH -> Solo descarga, No aplica Cambios
+- Solo actualiza las referencias remotas (origin/main, origin/develop, etc.)
+- Puedes **ver** qué cambios hay sin aplicarlos
+## GIT PULL -> Descarga y aplica cambios
+- **SÍ modifica** tu código local inmediatamente
+- Trae TODOS los cambios de ambos desarrolladores
+
+- **`git fetch origin`**: La mayoría del tiempo (vista completa)
+- **`git fetch origin main`**: Solo cuando quieres optimizar y solo te interesa main

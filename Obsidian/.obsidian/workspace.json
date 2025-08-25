@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Herramientas/GIT.md",
+                "file": "FullStack/NodeJS  API REST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GIT"
+              "title": "NodeJS  API REST"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.5
+    "width": 214.5,
+    "collapsed": true
   },
   "right": {
     "id": "b17e2223467df5c0",
@@ -194,10 +195,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0ee6f36848e77f17",
+  "active": "3053b8ca84b38b2c",
   "lastOpenFiles": [
-    "Untitled 7.md",
     "Herramientas/GIT.md",
+    "FullStack/NodeJS  API REST.md",
+    "image_2.png",
+    "FullStack",
+    "Herramientas/Docker.md",
+    "Herramientas/attachments/Pasted image 20250822070034.png",
+    "Herramientas/Chat.md",
+    "Untitled 7.md",
     "Heatlh/Rutina para el desarrollo muscular.md",
     "001ProjectMINING/GIT.md",
     "Ciclismo/attachments/Pasted image 20250304145415.png",
@@ -218,8 +225,6 @@
     "Excalidraw/Drawing 2025-07-25 10.27.05.excalidraw.png",
     "Excalidraw/attachments/image_2.png",
     "Excalidraw/attachments/image_1.png",
-    "Excalidraw/attachments/image_0.png",
-    "Excalidraw/attachments/image.png",
     "Excalidraw/attachments",
     "Education/Drawing 2025-07-25 10.26.33.excalidraw.md",
     "Untitled 6.md",
@@ -228,7 +233,6 @@
     "Algorithm_Data_Structures/Hash Tables.md",
     "Key_Term_CS",
     "Algorithm_Data_Structures/attachments/Hash_Tables.pdf",
-    "Algorithm_Data_Structures/attachments",
     "001ProjectMINING/Api de Google.md",
     "Education/Learning English/Drawing 2025-03-22 10.57.25.excalidraw.md",
     "Education/Learning English/PRESENT SIMPLE.md",
@@ -238,10 +242,6 @@
     "Inteligencia Artificial/IA.md",
     "Inteligencia Artificial/tips de IA.md",
     "Entertainment/Guitarra/Curso de Guitarra Andina.md",
-    "Herramientas/Chat.md",
-    "Professional Carrer/Unsa/Sistemas Operativos/Drawing 2024-12-09 09.17.34.excalidraw.md",
-    "Professional Carrer/Unsa/2025-A/Scheduling.md",
-    "Education/Learning English/Advervios.md",
     "Untitled.canvas",
     "Education/Learning English/Untitled.canvas",
     "Personal Branding/Ejemplo de Canvas.canvas"
