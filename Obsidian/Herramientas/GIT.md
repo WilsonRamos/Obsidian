@@ -21,7 +21,7 @@ git reset --hard [COMIT]
 git push --force origin main
 
 4. Avisa que terminaste(en cualquier otra maquina despues)
-git fetch origin origin &&
+git fetch origin
 git reset --hard origin/main
 
 git log --oneline -1

@@ -13,30 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Heatlh/Rutina para el desarrollo muscular.md",
+                "file": "FullStack/NodeJS  API REST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rutina para el desarrollo muscular"
+              "title": "NodeJS  API REST"
             }
           },
           {
-            "id": "3053b8ca84b38b2c",
+            "id": "1be89d6853f68858",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trabajos/Divemotor.md",
+                "file": "Professional Carrer/Unsa/2025-B/Seguridad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Divemotor"
+              "title": "Seguridad"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#etiqueta",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,54 +192,53 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3053b8ca84b38b2c",
+  "active": "0b41bf002465a5de",
   "lastOpenFiles": [
+    "Professional Carrer/Unsa/2025-B/IoT/Protocolos.md",
+    "Professional Carrer/Unsa/2025-B/IoT/attachments/Pasted image 20250919211728.png",
+    "Professional Carrer/Unsa/2025-B/IoT/attachments/Pasted image 20250919211652.png",
+    "Professional Carrer/Unsa/2025-B/IoT/attachments",
+    "Professional Carrer/Unsa/2025-B/Interaccion Humano Computador IHC.md",
+    "Professional Carrer/Unsa/2025-B/IoT",
+    "Professional Carrer/Unsa/2025-B/Internet of thing.md",
+    "Professional Carrer/Unsa/2025-B/Fisica Computacional.md",
+    "Professional Carrer/Unsa/2025-B/Seguridad.md",
+    "SUMMER/GIT/GIT.md",
+    "001ProjectMINING/Comandos.md",
+    "Professional Carrer/Unsa/2025-B/Software.md",
+    "001ProjectMINING/attachments/Pasted image 20250914215704.png",
+    "Professional Carrer/Unsa/2025-B/Software Engineer.md",
+    "Professional Carrer/Unsa/2025-B/IHC/Untitled.md",
+    "Professional Carrer/Unsa/2025-B/IHC/Proyecto.md",
+    "001ProjectMINING/Configuracion Device Center.md",
+    "001ProjectMINING/attachments/Pasted image 20250911082129.png",
+    "001ProjectMINING/attachments/Pasted image 20250911082053.png",
+    "001ProjectMINING/Maquinaria IMEI.md",
+    "001ProjectMINING/Api de Google.md",
+    "Professional Carrer/Unsa/2025-B/IHC",
+    "SUMMER/GIT/GIT.excalidraw.md",
+    "SUMMER/GIT/Modelo de datos.md",
+    "FullStack/Clean Arquitecture.md",
+    "Professional Carrer/Unsa/2025-B/Ada.md",
+    "001ProjectMINING/Gps.md",
+    "Professional Carrer/Unsa/2025-B/Pasted image 20250904065222.png",
+    "Professional Carrer/Unsa/2025-B/attachments/Pasted image 20250903093534.png",
+    "Professional Carrer/Unsa/2025-B/attachments",
+    "Professional Carrer/Unsa/MAC/Expresar un funcion por partes en una funcion escalar.md",
+    "Professional Carrer/Unsa/2025-B",
+    "Professional Carrer/Unsa/Sistemas Operativos/Drawing 2024-12-09 09.17.34.excalidraw.md",
+    "CodeTenciques.excalidraw.md",
+    "000 TAREAS.md",
+    "Trabajos/Divemotor.md",
+    "Garbage Colector.md",
     "Trabajos/attachments/Pasted image 20250825081737.png",
     "Trabajos/attachments/Pasted image 20250825081235.png",
     "Trabajos/attachments",
     "001ProjectMINING/attachments/Pasted image 20250805195253.png",
-    "Trabajos/Divemotor.md",
     "Trabajos",
-    "001ProjectMINING/Maquinaria IMEI.md",
-    "001ProjectMINING/Api de Google.md",
-    "FullStack/NodeJS  API REST.md",
-    "Herramientas/GIT.md",
-    "image_2.png",
     "FullStack",
-    "Herramientas/Docker.md",
-    "Herramientas/attachments/Pasted image 20250822070034.png",
-    "Herramientas/Chat.md",
-    "Untitled 7.md",
-    "Heatlh/Rutina para el desarrollo muscular.md",
-    "001ProjectMINING/GIT.md",
-    "Ciclismo/attachments/Pasted image 20250304145415.png",
-    "Ciclismo/attachments/Pasted image 20250118185123.png",
-    "Ciclismo/Cuadro.md",
     "Ciclismo/attachments",
     "Ciclismo",
-    "001ProjectMINING/attachments/Pasted image 20250821065156.png",
-    "Patrimony/Macbook.md",
-    "Heatlh",
-    "Patrimony/attachments/Pasted image 20250812221759.png",
-    "Patrimony/attachments",
-    "001ProjectMINING/attachments",
-    "Professional Carrer/Unsa/2025-A/BAse de dAts.md",
-    "Excalidraw/Drawing 2025-07-25 10.27.05.excalidraw.md",
-    "Excalidraw/Drawing 2025-07-25 10.27.05.excalidraw.png",
-    "Excalidraw/attachments/image_2.png",
-    "Excalidraw/attachments",
-    "Education/Drawing 2025-07-25 10.26.33.excalidraw.md",
-    "Untitled 6.md",
-    "Algorithm_Data_Structures/INTRODUCTION_TO_ALGORITHMS_FOURTH_EDITION.pdf",
-    "Key_Term_CS/HIT  MISS.md",
-    "Algorithm_Data_Structures/Hash Tables.md",
-    "Education/Learning English/Drawing 2025-03-22 10.57.25.excalidraw.md",
-    "Education/Learning English/PRESENT SIMPLE.md",
-    "Education/Learning English/PAST PERFECT.md",
-    "Education/Learning English/Untitled.md",
-    "Inteligencia Artificial/Prompt Engineering.md",
-    "Inteligencia Artificial/IA.md",
-    "Inteligencia Artificial/tips de IA.md",
     "Untitled.canvas",
     "Education/Learning English/Untitled.canvas",
     "Personal Branding/Ejemplo de Canvas.canvas"
