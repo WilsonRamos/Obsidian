@@ -1,7 +1,8 @@
 
 Curso Node en LinkedIn
 https://www.linkedin.com/learning/node-js-esencial-24431438/descubre-que-es-y-como-funciona-node-js?resume=false
-nos quedamos en Gestion de Archivos para seguri grabancdo
+Falta Manejo de Archivos con Node.js
+![[Pasted image 20250930204406.png]]
 
 javascrip:
 https://www.linkedin.com/learning/javascript-esencial-22919909/expresiones-y-declaraciones-en-javascript?resume=false

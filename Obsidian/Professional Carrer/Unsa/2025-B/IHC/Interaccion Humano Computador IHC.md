@@ -34,25 +34,36 @@ metanoia92
 -----------------
 
 
-Fase 1 : 
-Hacker(Jugador de Apoyo)
-* Accede a planos Arquitentonicos*
-* control de sistemas  Mapa Horarios de guardias 
-* Localiza sistemas de alarmas y sensores de movimiento
-* Hackeo Progresivo : Desbloquear nuevas areas gradualmente
-* Comunicacion Codificada:senales visuales en las camaras U otras (Recomienda)
-Fase 2 : Infiltracion Jugador con VR
-	* entrada disfrazad como persona de limpieza o mantenimiento*
-	* Navegacion Interna 
 
 
-Fase Acceso a la Boveda:
-	* minijuego de escuchar click
-	* Hacker debe infiltar sistema digital
-Fase Dentro de la Boveda : 
-	* Codigos: Hacker busca en la base de datos*
-Fase Escape del Juego
-	* Alarma 15 20 min antes de que llegue seguridad*
-	* 
+**Fase 1 – Recon & Control (Hacker / Soporte)**
+
+- Acceso a planos arquitectónicos interactivos (capas: eléctricos, cámaras, rutas de guardias).
+    
+- Mapa horario dinámico: líneas temporales con rutas de guardia y ventanas seguras.
+    
+- Localización y etiquetado de sensores/alarma.
+    
+- Hackeo progresivo: desbloqueo de sub-sistemas (puertas, cámaras, elevadores) con coste temporal o recursos.
+-
+**Fase 2 – Infiltración (Jugador VR)**
+
+- Entrada con disfraz (sistema de identidad que puede ser verificado por NPCs).
+    
+- Navegación: combinación de sigilo,Evitar punto de enfoque de las camaras de seguridad, interacción física (abrir puertas, mover objetos) y rutas alternativas.
+
+
+**Fase 3 – Bóveda (Equipo coordinado)**
+
+- Puzzle de circuitos electricos(cortar cables) : - El hacker da pistas desde su interfaz (“corta el azul con rayas” o “corta el cable conectado al nodo X”).
+- El jugador VR debe cortar el cable correcto con tijeras virtuales.
+-
+**Fase 4 – Escape bajo presión**
+
+- Alarma programada (p. ej. suena si se detecta un evento(cortar cable) o tras un countdown de 15–20 min).
+    
+- Oleadas de seguridad que aumentan en agresividad; rutas de escape se cierran dinámicamente.
+    
+- Objetivo: salir con evidencia/objeto antes del punto de no retorno.
 	
 

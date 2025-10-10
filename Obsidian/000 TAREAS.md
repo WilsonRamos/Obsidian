@@ -12,6 +12,10 @@ kanban-plugin: board
 - [ ] [[Empradronarme en la Asociacion Asvitazonza]]
 - [ ] Programacion en PyGame (6 Hours)
 - [ ] Proyectos con interfaz https://youtu.be/RaEatqpugCk?list=PL7HAy5R0ehQUqWhWNm3DpGOSAZ1skAEsW
+- [ ] UNSA:Intenet de Las cosas
+- [ ] UNSA:Fisica Computacional
+- [ ] CI-CD Termianar Video Despues hay otro video de jenkins con AWS
+- [ ] Curso de React -> MEjora interfaz
 
 
 ## In Progress
@@ -23,6 +27,7 @@ kanban-plugin: board
 - [ ] Road Map Machine Learning
 - [ ] Lecture 12:
 - [ ] Machine Learning Map
+- [ ] UNSA:SEguridad en Coputacion
 - [ ] 
 
 
