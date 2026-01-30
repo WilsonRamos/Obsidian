@@ -22,3 +22,8 @@ Presentation : es lo mas extreno de nuestro  circulo y los cerca  a los usuarios
  esto no tiene que tener dependencias externans
  los adaptadores(entes externos) no deben tener injerencia sobre las reglas de negocio
 infrastructure : punto inteermedio crear las implementacion de los adaptadores,repositorios, mappers
+
+
+## Adaptador : 
+
+Un **adaptador** es una clase que "envuelve" una librería externa y expone una interfaz limpia para tu aplicación. Su propósito es:

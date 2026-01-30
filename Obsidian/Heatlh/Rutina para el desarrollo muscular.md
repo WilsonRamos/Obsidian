@@ -6,3 +6,5 @@
 
 ejercicios isometricos
 hipertrofia
+
+![[Pasted image 20260124233704.png]]

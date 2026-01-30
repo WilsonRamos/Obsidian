@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "d8ebfd2b39282e8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f1d9c5a659e54a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c387601765eda501",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Obsidian/001ProjectMINING/TELEMETRY/Telemetry/Drawing 2026-01-27 16.17.48.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-27 16.17.48.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6541bf35df07c328",
+    "type": "split",
+    "children": [
+      {
+        "id": "66e574f30742eae4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da543b12e6419e81",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "41aaa2cabb2a8e48",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a89a686a6aa92de0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "b2588869603bbc3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce0626b11e40729a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d26960a975087af5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian/001ProjectMINING/TELEMETRY/Telemetry/Drawing 2026-01-27 16.17.48.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Drawing 2026-01-27 16.17.48.excalidraw"
+            }
+          },
+          {
+            "id": "b7b7e738be690941",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian/001ProjectMINING/TELEMETRY/Telemetry/Drawing 2026-01-27 16.17.48.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Drawing 2026-01-27 16.17.48.excalidraw"
+            }
+          },
+          {
+            "id": "cebee60c16065891",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "50b4bd11115e2ed8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1c8406be30751bd5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian/001ProjectMINING/TELEMETRY/Telemetry/Drawing 2026-01-27 16.17.48.excalidraw.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Drawing 2026-01-27 16.17.48.excalidraw"
+            }
+          },
+          {
+            "id": "1e61b9fb93155187",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c387601765eda501",
+  "lastOpenFiles": [
+    "Obsidian/001ProjectMINING/TELEMETRY/Telemetry/ANEXOS/Pasted Image 20260129074619_725.png",
+    "Obsidian/001ProjectMINING/Ruptela/Excavadora.excalidraw.md",
+    "Obsidian/001ProjectMINING/Ruptela/ANEXOS/EN FMS harness 5th gen Datasheet.pdf",
+    "Obsidian/001ProjectMINING/Ruptela/ANEXOS/Pasted Image 20260128091706_286.png",
+    "Obsidian/001ProjectMINING/Tipos Vehiculos.md",
+    "Obsidian/001ProjectMINING/Excavadora Hidraulica 330.md",
+    "Obsidian/001ProjectMINING/Comandos SQL.md",
+    "Obsidian/001ProjectMINING/Configuracion Device Center.md",
+    "Obsidian/FullStack/websocket.md",
+    "Obsidian/001ProjectMINING/TELEMETRY/Telemetry/Drawing 2026-01-27 16.17.48.excalidraw.md",
+    "Obsidian/001ProjectMINING/TELEMETRY/Telemetry/ANEXOS/Pasted Image 20260128190436_255.png",
+    "Obsidian/001ProjectMINING/TELEMETRY/Telemetry/ANEXOS",
+    "Obsidian/001ProjectMINING/TELEMETRY/Telemetry/Learning.md",
+    "Obsidian/001ProjectMINING/Ruptela/ANEXOS/easycan.pdf",
+    "Obsidian/001ProjectMINING/Ruptela/Cotizacion Solsatel.md",
+    "Obsidian/001ProjectMINING/Ruptela/Ruptela-Product-Catalogue .pdf",
+    "Obsidian/001ProjectMINING/Ruptela/Ruptela.md",
+    "Obsidian/001ProjectMINING/Ruptela/Drawing 2026-01-21 11.17.08.excalidraw.md",
+    "Obsidian/001ProjectMINING/Ruptela/CONEXIONES.excalidraw.md",
+    "Obsidian/001ProjectMINING/Ruptela/Compatativa LINEAS Ruptela.md",
+    "Obsidian/001ProjectMINING/Ruptela/ComparacionDeAccesoDatos.excalidraw.md",
+    "Obsidian/001ProjectMINING/Ruptela/VolvoFMX.excalidraw.md",
+    "Obsidian/001ProjectMINING/Ruptela/ANEXOS/Pasted Image 20260128111645_496.png",
+    "Obsidian/001ProjectMINING/Ruptela/ANEXOS/internet-service-providers.excalidrawlib",
+    "Obsidian/001ProjectMINING/Ruptela/ANEXOS/Pasted Image 20260128092925_601.png",
+    "Obsidian/001ProjectMINING/Ruptela/ANEXOS/Pasted Image 20260128092839_306.png",
+    "Obsidian/001ProjectMINING/Ruptela/ANEXOS/Pasted Image 20260128092446_955.png",
+    "Obsidian/001ProjectMINING/Ruptela/ANEXOS/Pasted Image 20260128092321_311.png",
+    "Obsidian/Education/Vehiculos Pesados.md",
+    "Obsidian/001ProjectMINING/Proyecto.md",
+    "Obsidian/001ProjectMINING/Ruptela/ANEXOS/Pasted Image 20260128091706_263.png",
+    "Obsidian/001ProjectMINING/Ruptela/ANEXOS",
+    "Obsidian/001ProjectMINING/TELEMETRY/Untitled.md",
+    "Obsidian/001ProjectMINING/TELEMETRY/Telemetry",
+    "Obsidian/001ProjectMINING/TELEMETRY",
+    "Obsidian/Proyecto/Telemetry Service.md",
+    "Obsidian/001ProjectMINING/Maquinaria IMEI.md",
+    "Obsidian/001ProjectMINING/Api de Google.md",
+    "Obsidian/Proyecto",
+    "Obsidian/001ProjectMINING/Comandos.md",
+    "Obsidian/Algorithm_Data_Structures/Hash Tables.md",
+    "Obsidian/Algorithm_Data_Structures/INTRODUCTION_TO_ALGORITHMS_FOURTH_EDITION.pdf",
+    "Obsidian/Entertainment/Promp.md",
+    "Obsidian/Entertainment/Netflix.md",
+    "Pasted Image 20260119221632_509.png",
+    "Pasted image 20260124233704.png"
+  ]
+}
