@@ -11,15 +11,30 @@
             "id": "c387601765eda501",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Heatlh/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "af6c6738d479d06a",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Obsidian/001ProjectMINING/TELEMETRY/Telemetry/Drawing 2026-01-27 16.17.48.excalidraw.md"
+                "file": "Obsidian/Heatlh/Tiktok.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-27 16.17.48.excalidraw"
+              "title": "Tiktok.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "b2588869603bbc3a",
@@ -92,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/001ProjectMINING/TELEMETRY/Telemetry/Drawing 2026-01-27 16.17.48.excalidraw.md",
+                "file": "Obsidian/Heatlh/Tiktok.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2026-01-27 16.17.48.excalidraw"
+              "title": "Backlinks for Tiktok.excalidraw"
             }
           },
           {
@@ -154,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/001ProjectMINING/TELEMETRY/Telemetry/Drawing 2026-01-27 16.17.48.excalidraw.md",
+                "file": "Obsidian/Heatlh/Rutina para el desarrollo muscular.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2026-01-27 16.17.48.excalidraw"
+              "title": "Outline of Rutina para el desarrollo muscular"
             }
           },
           {
@@ -193,8 +209,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c387601765eda501",
+  "active": "af6c6738d479d06a",
   "lastOpenFiles": [
+    "Obsidian/Heatlh/ANEXOS/Pasted Image 20260130171051_778.png",
+    "Obsidian/Heatlh/ANEXOS/Pasted Image 20260130154824_890.png",
+    "Obsidian/Heatlh/ANEXOS/Pasted Image 20260130153813_202.png",
+    "Obsidian/Heatlh/ANEXOS/Pasted Image 20260130151829_408.png",
+    "Obsidian/Heatlh/ANEXOS/Pasted Image 20260130144019_976.png",
+    "Obsidian/Heatlh/ANEXOS/Pasted Image 20260130133027_722.png",
+    "Obsidian/Heatlh/Untitled.md",
+    "Obsidian/Heatlh/Tiktok.excalidraw.md",
+    "Obsidian/Heatlh/The Perfect Mobility Routine.md",
+    "Obsidian/Heatlh/Rutina para el desarrollo muscular.md",
+    "Obsidian/Heatlh/ANEXOS/Pasted image 20260130111841.png",
+    "Obsidian/Heatlh/ANEXOS/Pasted image 20260130111150.png",
+    "Obsidian/Heatlh/ANEXOS",
+    "Obsidian/001ProjectMINING/TELEMETRY/Telemetry/Drawing 2026-01-27 16.17.48.excalidraw.md",
     "Obsidian/001ProjectMINING/TELEMETRY/Telemetry/ANEXOS/Pasted Image 20260129074619_725.png",
     "Obsidian/001ProjectMINING/Ruptela/Excavadora.excalidraw.md",
     "Obsidian/001ProjectMINING/Ruptela/ANEXOS/EN FMS harness 5th gen Datasheet.pdf",
@@ -204,7 +234,6 @@
     "Obsidian/001ProjectMINING/Comandos SQL.md",
     "Obsidian/001ProjectMINING/Configuracion Device Center.md",
     "Obsidian/FullStack/websocket.md",
-    "Obsidian/001ProjectMINING/TELEMETRY/Telemetry/Drawing 2026-01-27 16.17.48.excalidraw.md",
     "Obsidian/001ProjectMINING/TELEMETRY/Telemetry/ANEXOS/Pasted Image 20260128190436_255.png",
     "Obsidian/001ProjectMINING/TELEMETRY/Telemetry/ANEXOS",
     "Obsidian/001ProjectMINING/TELEMETRY/Telemetry/Learning.md",
@@ -217,15 +246,9 @@
     "Obsidian/001ProjectMINING/Ruptela/Compatativa LINEAS Ruptela.md",
     "Obsidian/001ProjectMINING/Ruptela/ComparacionDeAccesoDatos.excalidraw.md",
     "Obsidian/001ProjectMINING/Ruptela/VolvoFMX.excalidraw.md",
-    "Obsidian/001ProjectMINING/Ruptela/ANEXOS/Pasted Image 20260128111645_496.png",
     "Obsidian/001ProjectMINING/Ruptela/ANEXOS/internet-service-providers.excalidrawlib",
-    "Obsidian/001ProjectMINING/Ruptela/ANEXOS/Pasted Image 20260128092925_601.png",
-    "Obsidian/001ProjectMINING/Ruptela/ANEXOS/Pasted Image 20260128092839_306.png",
-    "Obsidian/001ProjectMINING/Ruptela/ANEXOS/Pasted Image 20260128092446_955.png",
-    "Obsidian/001ProjectMINING/Ruptela/ANEXOS/Pasted Image 20260128092321_311.png",
     "Obsidian/Education/Vehiculos Pesados.md",
     "Obsidian/001ProjectMINING/Proyecto.md",
-    "Obsidian/001ProjectMINING/Ruptela/ANEXOS/Pasted Image 20260128091706_263.png",
     "Obsidian/001ProjectMINING/Ruptela/ANEXOS",
     "Obsidian/001ProjectMINING/TELEMETRY/Untitled.md",
     "Obsidian/001ProjectMINING/TELEMETRY/Telemetry",
@@ -233,13 +256,6 @@
     "Obsidian/Proyecto/Telemetry Service.md",
     "Obsidian/001ProjectMINING/Maquinaria IMEI.md",
     "Obsidian/001ProjectMINING/Api de Google.md",
-    "Obsidian/Proyecto",
-    "Obsidian/001ProjectMINING/Comandos.md",
-    "Obsidian/Algorithm_Data_Structures/Hash Tables.md",
-    "Obsidian/Algorithm_Data_Structures/INTRODUCTION_TO_ALGORITHMS_FOURTH_EDITION.pdf",
-    "Obsidian/Entertainment/Promp.md",
-    "Obsidian/Entertainment/Netflix.md",
-    "Pasted Image 20260119221632_509.png",
-    "Pasted image 20260124233704.png"
+    "Obsidian/Proyecto"
   ]
 }
