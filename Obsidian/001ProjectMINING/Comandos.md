@@ -21,4 +21,5 @@ contender usa kernel del HOST
 --------
 Que hace este comando
 instal bun :    curl -fsSL https://bun.sh/install | bash
-  
+
+![[Pasted image 20260204080712.png]]

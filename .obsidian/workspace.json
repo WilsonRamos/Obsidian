@@ -8,33 +8,115 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c387601765eda501",
+            "id": "7ab07d8133d19ccb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Heatlh/Untitled.md",
+                "file": "Obsidian/001ProjectMINING/SanJuandeDios/COMANDOS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "COMANDOS"
             }
           },
           {
-            "id": "af6c6738d479d06a",
+            "id": "0fee8f1500a6708b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian/Heatlh/Tiktok.excalidraw.md"
+                "file": "Obsidian/FullStack/Docker/Comandos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Tiktok.excalidraw"
+              "icon": "lucide-file",
+              "title": "Comandos"
+            }
+          },
+          {
+            "id": "c55d844b6c15d358",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Patrimony/Terreno Abuelo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Terreno Abuelo"
+            }
+          },
+          {
+            "id": "4d19d592ca6e73d5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "e4fb242bf016c9cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/001ProjectMINING/Ruptela/Programacion/Programacion Genereal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Programacion Genereal"
+            }
+          },
+          {
+            "id": "48762e91119f95c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/001ProjectMINING/SanJuandeDios/COMANDOS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COMANDOS"
+            }
+          },
+          {
+            "id": "8b4fe31badb155a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/001ProjectMINING/Comandos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Comandos"
+            }
+          },
+          {
+            "id": "5567bc33349ebfd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/FullStack/Comando AWS- CLI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Comando AWS- CLI"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -57,7 +139,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -91,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "b2588869603bbc3a",
@@ -108,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Heatlh/Tiktok.excalidraw.md",
+                "file": "Obsidian/001ProjectMINING/TELEMETRY/RuptelaDecoder.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +199,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tiktok.excalidraw"
+              "title": "Backlinks for RuptelaDecoder.excalidraw"
             }
           },
           {
@@ -198,64 +279,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af6c6738d479d06a",
+  "active": "da543b12e6419e81",
   "lastOpenFiles": [
-    "Obsidian/Heatlh/ANEXOS/Pasted Image 20260130171051_778.png",
-    "Obsidian/Heatlh/ANEXOS/Pasted Image 20260130154824_890.png",
-    "Obsidian/Heatlh/ANEXOS/Pasted Image 20260130153813_202.png",
-    "Obsidian/Heatlh/ANEXOS/Pasted Image 20260130151829_408.png",
-    "Obsidian/Heatlh/ANEXOS/Pasted Image 20260130144019_976.png",
-    "Obsidian/Heatlh/ANEXOS/Pasted Image 20260130133027_722.png",
-    "Obsidian/Heatlh/Untitled.md",
-    "Obsidian/Heatlh/Tiktok.excalidraw.md",
-    "Obsidian/Heatlh/The Perfect Mobility Routine.md",
-    "Obsidian/Heatlh/Rutina para el desarrollo muscular.md",
-    "Obsidian/Heatlh/ANEXOS/Pasted image 20260130111841.png",
-    "Obsidian/Heatlh/ANEXOS/Pasted image 20260130111150.png",
-    "Obsidian/Heatlh/ANEXOS",
-    "Obsidian/001ProjectMINING/TELEMETRY/Telemetry/Drawing 2026-01-27 16.17.48.excalidraw.md",
-    "Obsidian/001ProjectMINING/TELEMETRY/Telemetry/ANEXOS/Pasted Image 20260129074619_725.png",
-    "Obsidian/001ProjectMINING/Ruptela/Excavadora.excalidraw.md",
-    "Obsidian/001ProjectMINING/Ruptela/ANEXOS/EN FMS harness 5th gen Datasheet.pdf",
-    "Obsidian/001ProjectMINING/Ruptela/ANEXOS/Pasted Image 20260128091706_286.png",
-    "Obsidian/001ProjectMINING/Tipos Vehiculos.md",
-    "Obsidian/001ProjectMINING/Excavadora Hidraulica 330.md",
+    "Obsidian/Patrimony/Acces And Keys.md",
+    "Obsidian/Patrimony/Sin título.md",
+    "Obsidian/Patrimony/Macbook.md",
+    "Obsidian/Patrimony/Me/Sunat.md",
+    "Obsidian/Patrimony/Maria Analytics and Engineering/Empresa.md",
+    "Obsidian/Patrimony/attachments/Pasted image 20251013225707.png",
+    "Obsidian/Patrimony/attachments/Pasted image 20250812221759.png",
+    "Obsidian/Patrimony/Me",
+    "Obsidian/Patrimony/Maria Analytics and Engineering/SUNAT.md",
+    "Obsidian/Patrimony/Maria Analytics and Engineering",
+    "Obsidian/003MarvinMining/Contrato de compra venta REINFO.md",
+    "Obsidian/Requerimeintos.md",
+    "Obsidian/003MarvinMining/Conversacion con Marko.md",
+    "Obsidian/001ProjectMINING/Proyecto.md",
+    "Obsidian/003MarvinMining",
+    "Obsidian/FullStack/Docker/Drawing 2026-02-05 11.24.55.excalidraw.md",
+    "Obsidian/FullStack/Docker/ANEXOS/Pasted Image 20260228175923_875.png",
+    "Obsidian/FullStack/Docker/ANEXOS/Pasted Image 20260228171534_173.png",
+    "Obsidian/FullStack/Docker/ANEXOS/Pasted Image 20260228103347_896.png",
+    "Obsidian/001ProjectMINING/REPROCESAMIENTO.md",
+    "Obsidian/001ProjectMINING/Comandos.md",
+    "Obsidian/Patrimony/Terreno Abuelo.md",
+    "Obsidian/FullStack/DNS-NGINX.excalidraw.md",
+    "Obsidian/FullStack/ANEXOS/Pasted Image 20260225110151_332.png",
+    "Obsidian/FullStack/ANEXOS/Pasted Image 20260225110134_128.png",
+    "Obsidian/FullStack/Docker/Comandos.md",
+    "Obsidian/001ProjectMINING/SanJuandeDios/COMANDOS.md",
+    "Obsidian/001ProjectMINING/SanJuandeDios/Equipos y Maquinaria.excalidraw.md",
+    "Obsidian/001ProjectMINING/SanJuandeDios/ANEXOS/Pasted Image 20260224152241_485.png",
+    "Obsidian/001ProjectMINING/Ruptela/Programacion/Programacion Genereal.md",
+    "Obsidian/001ProjectMINING/SanJuandeDios/Drawing 2026-02-13 15.12.07.excalidraw.md",
+    "Obsidian/001ProjectMINING/SanJuandeDios/ANEXOS/Pasted Image 20260224133208_052.png",
+    "Obsidian/001ProjectMINING/SanJuandeDios/Informe Proyecto.md",
+    "Obsidian/001ProjectMINING/SanJuandeDios/ANEXOS/Pasted image 20260224133121.png",
+    "Obsidian/001ProjectMINING/Vocabulario.md",
+    "Obsidian/FullStack/Comando AWS- CLI.md",
     "Obsidian/001ProjectMINING/Comandos SQL.md",
     "Obsidian/001ProjectMINING/Configuracion Device Center.md",
-    "Obsidian/FullStack/websocket.md",
-    "Obsidian/001ProjectMINING/TELEMETRY/Telemetry/ANEXOS/Pasted Image 20260128190436_255.png",
-    "Obsidian/001ProjectMINING/TELEMETRY/Telemetry/ANEXOS",
-    "Obsidian/001ProjectMINING/TELEMETRY/Telemetry/Learning.md",
-    "Obsidian/001ProjectMINING/Ruptela/ANEXOS/easycan.pdf",
-    "Obsidian/001ProjectMINING/Ruptela/Cotizacion Solsatel.md",
+    "Obsidian/001ProjectMINING/Ruptela/Programacion/Untitled.base",
     "Obsidian/001ProjectMINING/Ruptela/Ruptela-Product-Catalogue .pdf",
-    "Obsidian/001ProjectMINING/Ruptela/Ruptela.md",
-    "Obsidian/001ProjectMINING/Ruptela/Drawing 2026-01-21 11.17.08.excalidraw.md",
-    "Obsidian/001ProjectMINING/Ruptela/CONEXIONES.excalidraw.md",
-    "Obsidian/001ProjectMINING/Ruptela/Compatativa LINEAS Ruptela.md",
-    "Obsidian/001ProjectMINING/Ruptela/ComparacionDeAccesoDatos.excalidraw.md",
-    "Obsidian/001ProjectMINING/Ruptela/VolvoFMX.excalidraw.md",
-    "Obsidian/001ProjectMINING/Ruptela/ANEXOS/internet-service-providers.excalidrawlib",
-    "Obsidian/Education/Vehiculos Pesados.md",
-    "Obsidian/001ProjectMINING/Proyecto.md",
-    "Obsidian/001ProjectMINING/Ruptela/ANEXOS",
-    "Obsidian/001ProjectMINING/TELEMETRY/Untitled.md",
-    "Obsidian/001ProjectMINING/TELEMETRY/Telemetry",
-    "Obsidian/001ProjectMINING/TELEMETRY",
-    "Obsidian/Proyecto/Telemetry Service.md",
-    "Obsidian/001ProjectMINING/Maquinaria IMEI.md",
-    "Obsidian/001ProjectMINING/Api de Google.md",
-    "Obsidian/Proyecto"
+    "Obsidian/001ProjectMINING/Ruptela/Programacion/ANEXOS",
+    "Obsidian/001ProjectMINING/Ruptela/Programacion",
+    "Obsidian/001ProjectMINING/SanJuandeDios/ANEXOS",
+    "Obsidian/001ProjectMINING/SanJuandeDios",
+    "Obsidian/FullStack/Docker/ANEXOS"
   ]
 }
