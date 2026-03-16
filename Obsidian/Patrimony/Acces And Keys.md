@@ -1,6 +1,14 @@
 SUNAT
 clave so
 
+## AWS console
+wramospac@unsa.edu.pe
+Metanoia92@.!
+
+## Github
+wramospac@unsa.edu.pe
+Metanoia92@.!
+
 
 ## Ngrok
 ![[Pasted image 20251013225707.png]]

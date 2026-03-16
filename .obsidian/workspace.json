@@ -53,12 +53,28 @@
             "id": "16d5fae0edb3eb49",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian/Education/SUNAT/Drawing 2026-03-06 07.42.42.excalidraw.md"
+                "file": "Obsidian/Personal Branding/Tatuaje Antebrazo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-06 07.42.42.excalidraw"
+              "icon": "lucide-file",
+              "title": "Tatuaje Antebrazo"
+            }
+          },
+          {
+            "id": "68ef5a5eb7eb6cf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Patrimony/Acces And Keys.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Acces And Keys"
             }
           },
           {
@@ -128,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -302,54 +318,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16d5fae0edb3eb49",
+  "active": "1e61b9fb93155187",
   "lastOpenFiles": [
-    "Obsidian/Education/SUNAT/ANEXOS/Quantum Mechanics Evolution-2026-03-06-132718.png",
-    "Obsidian/Education/Aprendifaje.excalidraw.md",
+    "Obsidian/Personal Branding/Drawing 2026-03-14 21.52.19.excalidraw.md",
+    "Obsidian/Personal Branding/ANEXOS/Pasted Image 20260314225228_987.png",
+    "Obsidian/Personal Branding/ANEXOS/Pasted Image 20260314223651_577.png",
+    "Obsidian/Personal Branding/ANEXOS/Pasted Image 20260314220445_619.png",
+    "Obsidian/Personal Branding/ANEXOS/Pasted Image 20260314215445_671.png",
+    "Obsidian/Personal Branding/ANEXOS/Pasted Image 20260314215423_422.png",
+    "Obsidian/Personal Branding/ANEXOS/Pasted Image 20260314215407_396.png",
+    "Obsidian/Personal Branding/ANEXOS/Pasted Image 20260314215341_895.png",
+    "Obsidian/Personal Branding/ANEXOS/Pasted Image 20260314215318_548.png",
+    "Obsidian/Personal Branding/ANEXOS/Pasted Image 20260314215245_463.png",
+    "Obsidian/Personal Branding/ANEXOS/Pasted Image 20260314215224_333.png",
+    "Obsidian/Personal Branding/Tatuaje Antebrazo.md",
+    "Obsidian/Personal Branding/ANEXOS",
+    "Obsidian/Personal Branding/IA y Emociones.md",
+    "Obsidian/Personal Branding/Untitled.md",
+    "Obsidian/Personal Branding/Ejemplo de Canvas.canvas",
+    "Obsidian/001ProjectMINING/ProyectoCode/EventProcesor.md",
+    "Obsidian/001ProjectMINING/ProyectoCode/ANEXOS",
+    "Obsidian/001ProjectMINING/NUEVO SISTEMA CON SUBZONAS.md",
+    "Obsidian/001ProjectMINING/ProyectoCode",
+    "Obsidian/001ProjectMINING/Proyecto.md",
+    "Obsidian/001ProjectMINING/REPROCESAMIENTO.md",
     "Obsidian/Education/SUNAT/Drawing 2026-03-06 07.42.42.excalidraw.md",
-    "Obsidian/Education/SUNAT/ANEXOS/Quantum Mechanics Evolution-2026-03-06-123018.png",
+    "Obsidian/Education/Aprendifaje.excalidraw.md",
     "Obsidian/Education/SUNAT/ANEXOS",
     "Obsidian/003MarvinMining/Conversacion con Marko.md",
     "Obsidian/Education/SUNAT",
     "Obsidian/003MarvinMining/Contrato de compra venta REINFO.md",
     "Obsidian/Garbage Colector.md",
-    "Obsidian/Personal Branding/Untitled.md",
-    "Obsidian/Personal Branding/IA y Emociones.md",
-    "Obsidian/Personal Branding/Ejemplo de Canvas.canvas",
     "Obsidian/Patrimony/Terreno Abuelo.md",
-    "Obsidian/Patrimony/attachments/Pasted image 20251013225707.png",
     "Obsidian/Patrimony/Acces And Keys.md",
     "Obsidian/Patrimony/Sin título.md",
     "Obsidian/Patrimony/Macbook.md",
     "Obsidian/Patrimony/Me/Sunat.md",
     "Obsidian/Patrimony/Maria Analytics and Engineering/Empresa.md",
-    "Obsidian/Patrimony/attachments/Pasted image 20250812221759.png",
     "Obsidian/Patrimony/Me",
     "Obsidian/Patrimony/Maria Analytics and Engineering/SUNAT.md",
     "Obsidian/Patrimony/Maria Analytics and Engineering",
     "Obsidian/Requerimeintos.md",
-    "Obsidian/001ProjectMINING/Proyecto.md",
     "Obsidian/003MarvinMining",
     "Obsidian/FullStack/Docker/Drawing 2026-02-05 11.24.55.excalidraw.md",
-    "Obsidian/FullStack/Docker/ANEXOS/Pasted Image 20260228175923_875.png",
-    "Obsidian/FullStack/Docker/ANEXOS/Pasted Image 20260228171534_173.png",
-    "Obsidian/FullStack/Docker/ANEXOS/Pasted Image 20260228103347_896.png",
-    "Obsidian/001ProjectMINING/REPROCESAMIENTO.md",
     "Obsidian/001ProjectMINING/Comandos.md",
     "Obsidian/FullStack/DNS-NGINX.excalidraw.md",
-    "Obsidian/FullStack/ANEXOS/Pasted Image 20260225110151_332.png",
-    "Obsidian/FullStack/ANEXOS/Pasted Image 20260225110134_128.png",
     "Obsidian/FullStack/Docker/Comandos.md",
-    "Obsidian/001ProjectMINING/SanJuandeDios/COMANDOS.md",
-    "Obsidian/001ProjectMINING/SanJuandeDios/Equipos y Maquinaria.excalidraw.md",
-    "Obsidian/001ProjectMINING/SanJuandeDios/ANEXOS/Pasted Image 20260224152241_485.png",
-    "Obsidian/001ProjectMINING/Ruptela/Programacion/Programacion Genereal.md",
-    "Obsidian/001ProjectMINING/SanJuandeDios/Drawing 2026-02-13 15.12.07.excalidraw.md",
-    "Obsidian/001ProjectMINING/SanJuandeDios/ANEXOS/Pasted Image 20260224133208_052.png",
     "Obsidian/001ProjectMINING/Ruptela/Programacion/Untitled.base",
-    "Obsidian/001ProjectMINING/Ruptela/Ruptela-Product-Catalogue .pdf",
-    "Obsidian/001ProjectMINING/Ruptela/Programacion/ANEXOS",
-    "Obsidian/001ProjectMINING/Ruptela/Programacion",
-    "Obsidian/001ProjectMINING/SanJuandeDios/ANEXOS"
+    "Obsidian/001ProjectMINING/Ruptela/Ruptela-Product-Catalogue .pdf"
   ]
 }
