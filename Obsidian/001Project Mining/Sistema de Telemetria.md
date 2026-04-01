@@ -1,0 +1,1 @@
+Geotab, Samsara, MiX Telematics)

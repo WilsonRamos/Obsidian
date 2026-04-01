@@ -1,4 +1,6 @@
 {
   "attachmentFolderPath": "./attachments",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "vimMode": false,
+  "tabSize": 5
 }

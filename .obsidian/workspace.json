@@ -8,143 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7ab07d8133d19ccb",
+            "id": "b0c698081da05fa6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/001ProjectMINING/SanJuandeDios/COMANDOS.md",
+                "file": "Obsidian/001Project Mining/Proyecto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COMANDOS"
-            }
-          },
-          {
-            "id": "0fee8f1500a6708b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/FullStack/Docker/Comandos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Comandos"
-            }
-          },
-          {
-            "id": "c55d844b6c15d358",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/003MarvinMining/Conversacion con Marko.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conversacion con Marko"
-            }
-          },
-          {
-            "id": "16d5fae0edb3eb49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/Personal Branding/Tatuaje Antebrazo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tatuaje Antebrazo"
-            }
-          },
-          {
-            "id": "68ef5a5eb7eb6cf8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/Patrimony/Acces And Keys.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Acces And Keys"
-            }
-          },
-          {
-            "id": "4d19d592ca6e73d5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
-          },
-          {
-            "id": "e4fb242bf016c9cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/001ProjectMINING/Ruptela/Programacion/Programacion Genereal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Programacion Genereal"
-            }
-          },
-          {
-            "id": "48762e91119f95c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/001ProjectMINING/SanJuandeDios/COMANDOS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "COMANDOS"
-            }
-          },
-          {
-            "id": "8b4fe31badb155a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/001ProjectMINING/Comandos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Comandos"
-            }
-          },
-          {
-            "id": "5567bc33349ebfd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/FullStack/Comando AWS- CLI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Comando AWS- CLI"
+              "title": "Proyecto"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -303,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -318,53 +196,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e61b9fb93155187",
+  "active": "b0c698081da05fa6",
   "lastOpenFiles": [
-    "Obsidian/Personal Branding/Drawing 2026-03-14 21.52.19.excalidraw.md",
-    "Obsidian/Personal Branding/ANEXOS/Pasted Image 20260314225228_987.png",
-    "Obsidian/Personal Branding/ANEXOS/Pasted Image 20260314223651_577.png",
-    "Obsidian/Personal Branding/ANEXOS/Pasted Image 20260314220445_619.png",
-    "Obsidian/Personal Branding/ANEXOS/Pasted Image 20260314215445_671.png",
-    "Obsidian/Personal Branding/ANEXOS/Pasted Image 20260314215423_422.png",
-    "Obsidian/Personal Branding/ANEXOS/Pasted Image 20260314215407_396.png",
-    "Obsidian/Personal Branding/ANEXOS/Pasted Image 20260314215341_895.png",
-    "Obsidian/Personal Branding/ANEXOS/Pasted Image 20260314215318_548.png",
-    "Obsidian/Personal Branding/ANEXOS/Pasted Image 20260314215245_463.png",
-    "Obsidian/Personal Branding/ANEXOS/Pasted Image 20260314215224_333.png",
     "Obsidian/Personal Branding/Tatuaje Antebrazo.md",
-    "Obsidian/Personal Branding/ANEXOS",
-    "Obsidian/Personal Branding/IA y Emociones.md",
-    "Obsidian/Personal Branding/Untitled.md",
-    "Obsidian/Personal Branding/Ejemplo de Canvas.canvas",
-    "Obsidian/001ProjectMINING/ProyectoCode/EventProcesor.md",
-    "Obsidian/001ProjectMINING/ProyectoCode/ANEXOS",
-    "Obsidian/001ProjectMINING/NUEVO SISTEMA CON SUBZONAS.md",
-    "Obsidian/001ProjectMINING/ProyectoCode",
-    "Obsidian/001ProjectMINING/Proyecto.md",
-    "Obsidian/001ProjectMINING/REPROCESAMIENTO.md",
-    "Obsidian/Education/SUNAT/Drawing 2026-03-06 07.42.42.excalidraw.md",
-    "Obsidian/Education/Aprendifaje.excalidraw.md",
-    "Obsidian/Education/SUNAT/ANEXOS",
-    "Obsidian/003MarvinMining/Conversacion con Marko.md",
-    "Obsidian/Education/SUNAT",
-    "Obsidian/003MarvinMining/Contrato de compra venta REINFO.md",
+    "Obsidian/Patrimony/Acces And Keys.md",
+    "Obsidian/000 TAREAS.md",
+    "Obsidian/Trabajos/Divemotor.md",
     "Obsidian/Garbage Colector.md",
     "Obsidian/Patrimony/Terreno Abuelo.md",
-    "Obsidian/Patrimony/Acces And Keys.md",
-    "Obsidian/Patrimony/Sin título.md",
-    "Obsidian/Patrimony/Macbook.md",
     "Obsidian/Patrimony/Me/Sunat.md",
-    "Obsidian/Patrimony/Maria Analytics and Engineering/Empresa.md",
-    "Obsidian/Patrimony/Me",
     "Obsidian/Patrimony/Maria Analytics and Engineering/SUNAT.md",
+    "Obsidian/Patrimony/Maria Analytics and Engineering/Empresa.md",
+    "Obsidian/003MarvinMining/Conversacion con Marko.md",
+    "Obsidian/003MarvinMining/Contrato de compra venta REINFO.md",
+    "Obsidian/001Project Mining/Vocabulario.md",
+    "Obsidian/001Project Mining/Tipos Vehiculos.md",
+    "Obsidian/001Project Mining/REDISENO.md",
+    "Obsidian/001Project Mining/Proyecto.md",
+    "Obsidian/001Project Mining/NUEVO SISTEMA CON SUBZONAS.md",
+    "Obsidian/001Project Mining/Gps Defectusoso.md",
+    "Obsidian/001Project Mining/Comandos.md",
+    "Obsidian/001Project Mining/Excavadora Hidraulica 330.md",
+    "Obsidian/001Project Mining/GPS Ruptela/Configuracion Device Center VIDAL.md",
+    "Obsidian/001Project Mining/Comandos SQL.md",
+    "Obsidian/001Project Mining/TELEMETRY/Untitled 1.md",
+    "Obsidian/001Project Mining/TELEMETRY/Untitled.md",
+    "Obsidian/001Project Mining/TELEMETRY/Telemetry/Diagrama de la Arquitectura.md",
+    "Obsidian/001Project Mining/TELEMETRY/Telemetry/Learning.md",
+    "Obsidian/001Project Mining/San Juan de Dios/Informe Proyecto.md",
+    "Pasted Image 20260118110524_832.png",
+    "Obsidian/001Project Mining/Santiago",
+    "Obsidian/001Project Mining/San Juan de Dios",
+    "Pasted image 20260118114246.png",
+    "Obsidian/001Project Mining/ANEXOS/Pasted image 20260323212500.png",
+    "Obsidian/001Project Mining/ANEXOS/Pasted image 20260320101539.png",
+    "Obsidian/001Project Mining/ProyectoCode/ANEXOS/Pasted Image 20260318225858_004.png",
+    "Obsidian/001Project Mining/ANEXOS/Pasted image 20260318224811.png",
+    "Obsidian/001Project Mining/ProyectoCode/ANEXOS/Pasted Image 20260318224503_952.png",
+    "Obsidian/Personal Branding/ANEXOS/Pasted Image 20260318140340_524.png",
+    "Obsidian/Personal Branding/ANEXOS/Pasted Image 20260318115008_744.png",
+    "Obsidian/001Project Mining/ProyectoCode/ANEXOS/Pasted Image 20260317213540_987.png",
+    "Obsidian/Personal Branding/ANEXOS",
+    "Obsidian/Personal Branding/Ejemplo de Canvas.canvas",
+    "Obsidian/001Project Mining/ProyectoCode/ANEXOS",
+    "Obsidian/001Project Mining/ProyectoCode",
+    "Obsidian/Education/SUNAT/ANEXOS",
+    "Obsidian/Education/SUNAT",
+    "Obsidian/Patrimony/Me",
     "Obsidian/Patrimony/Maria Analytics and Engineering",
-    "Obsidian/Requerimeintos.md",
-    "Obsidian/003MarvinMining",
-    "Obsidian/FullStack/Docker/Drawing 2026-02-05 11.24.55.excalidraw.md",
-    "Obsidian/001ProjectMINING/Comandos.md",
-    "Obsidian/FullStack/DNS-NGINX.excalidraw.md",
-    "Obsidian/FullStack/Docker/Comandos.md",
-    "Obsidian/001ProjectMINING/Ruptela/Programacion/Untitled.base",
-    "Obsidian/001ProjectMINING/Ruptela/Ruptela-Product-Catalogue .pdf"
+    "Obsidian/003MarvinMining"
   ]
 }
